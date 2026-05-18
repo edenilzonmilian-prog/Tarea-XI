@@ -1,0 +1,2 @@
+# Tarea XI
+Archivos binarios
